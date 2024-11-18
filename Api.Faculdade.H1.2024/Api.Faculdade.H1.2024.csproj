@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Api.Faculdade.H1._2024</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Api.Faculdade.H1.2024.Dominio\Api.Faculdade.H1.2024.Dominio.csproj" />
+    <ProjectReference Include="..\Api.Faculdade.H1.2024.Infra\Api.Faculdade.H1.2024.Infra.csproj" />
+    <ProjectReference Include="..\Api.Faculdade.H1.2024.Servicos\Api.Faculdade.H1.2024.Servicos.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Utilitarios\bin\Debug\net8.0\Api.Faculdade.H1.2024.Utilitarios.deps.json
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Utilitarios\bin\Debug\net8.0\Api.Faculdade.H1.2024.Utilitarios.dll
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Utilitarios\bin\Debug\net8.0\Api.Faculdade.H1.2024.Utilitarios.pdb
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Utilitarios\obj\Debug\net8.0\Api.Faculdade.H1.2024.Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Utilitarios\obj\Debug\net8.0\Api.Faculdade.H1.2024.Utilitarios.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Utilitarios\obj\Debug\net8.0\Api.Faculdade.H1.2024.Utilitarios.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Utilitarios\obj\Debug\net8.0\Api.Faculdade.H1.2024.Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Utilitarios\obj\Debug\net8.0\Api.Faculdade.H1.2024.Utilitarios.dll
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Utilitarios\obj\Debug\net8.0\refint\Api.Faculdade.H1.2024.Utilitarios.dll
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Utilitarios\obj\Debug\net8.0\Api.Faculdade.H1.2024.Utilitarios.pdb
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Utilitarios\obj\Debug\net8.0\ref\Api.Faculdade.H1.2024.Utilitarios.dll

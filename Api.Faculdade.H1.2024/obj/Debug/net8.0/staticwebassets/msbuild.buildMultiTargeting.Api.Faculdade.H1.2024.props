@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Api.Faculdade.H1.2024.props" />
+</Project>

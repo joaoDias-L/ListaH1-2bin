@@ -1,0 +1,17 @@
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Servicos\obj\Debug\net8.0\Api.Faculdade.H1.2024.Servicos.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Servicos\obj\Debug\net8.0\Api.Faculdade.H1.2024.Servicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Servicos\obj\Debug\net8.0\Api.Faculdade.H1.2024.Servicos.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Servicos\obj\Debug\net8.0\Api.Faculdade.H1.2024.Servicos.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Servicos\obj\Debug\net8.0\Api.Faculdade.H1.2024.Servicos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Servicos\bin\Debug\net8.0\Api.Faculdade.H1.2024.Servicos.deps.json
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Servicos\bin\Debug\net8.0\Api.Faculdade.H1.2024.Servicos.dll
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Servicos\bin\Debug\net8.0\Api.Faculdade.H1.2024.Servicos.pdb
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Servicos\bin\Debug\net8.0\Api.Faculdade.H1.2024.Dominio.dll
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Servicos\bin\Debug\net8.0\Api.Faculdade.H1.2024.Infra.dll
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Servicos\bin\Debug\net8.0\Api.Faculdade.H1.2024.Dominio.pdb
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Servicos\bin\Debug\net8.0\Api.Faculdade.H1.2024.Infra.pdb
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Servicos\obj\Debug\net8.0\Api.Facu.3089A3B5.Up2Date
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Servicos\obj\Debug\net8.0\Api.Faculdade.H1.2024.Servicos.dll
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Servicos\obj\Debug\net8.0\refint\Api.Faculdade.H1.2024.Servicos.dll
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Servicos\obj\Debug\net8.0\Api.Faculdade.H1.2024.Servicos.pdb
+C:\Users\Pichau\source\repos\Api.Faculdade.H1.2024\Api.Faculdade.H1.2024.Servicos\obj\Debug\net8.0\ref\Api.Faculdade.H1.2024.Servicos.dll
